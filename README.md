@@ -72,7 +72,7 @@ The question boils down to 'what is a fair way for other user groups to contribu
 - [Report: Financial Returns to Industry from the Federal Aid in Wildlife Restoration Program](https://wsfrprograms.fws.gov/Subpages/GrantPrograms/MultiState/MS_WRTaxReport2011.pdf)
 - [U.S. Fish & Wildlife Service Wildlife and Sportfish Restoration Program 2016 Survey](https://wsfrprograms.fws.gov/Subpages/NationalSurvey/National_Survey.htm)
 
-Notes:
+Notes:  
 <a name="footnote1">1</a>: See New Hampshire Fish & Game's [FY2016 budget breakdown](https://www.wildlife.state.nh.us/funding/charts.html)  
 <a name="footnote2">2</a>: The analysis supporting the table numbers can be found in the [project's Jupyter notebook](./StateAgencyFunding.ipynb)  
 <a name="footnote3">3</a>: See tenet 7 of the [North American Model for Wildlife Conservation](https://www.fws.gov/hunting/north-american-model-of-wildlife-conservation.html)  
