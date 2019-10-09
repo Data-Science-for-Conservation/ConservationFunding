@@ -1,6 +1,6 @@
 # Conservation Funding Sources in the United States
 
-## Overview of Conservation Funding Sources
+## Overview
 
 Conservation dollars in the United States go towards wildlife and fisheries management, outdoor recreation access, habitat improvement, and many other projects. Below is a broad overview of the different sources for conservation funding.
 
